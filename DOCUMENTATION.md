@@ -130,7 +130,7 @@ Define the pixel based position in which the **center** of the [Step Element](#s
 
 ```html
 <div id="tiny" class="step" data-x="2825" data-y="2325" data-z="-3000" data-rotate="300" data-scale="1">
-    <p>and <b>tiny</b> ideas</p>
+    
 </div>
 ```
 
